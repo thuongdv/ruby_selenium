@@ -1,0 +1,6 @@
+--tag type:smoke_test
+-fd
+-fh
+--color
+--require spec_helper
+-o results/result.html

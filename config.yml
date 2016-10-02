@@ -1,0 +1,2 @@
+# Specify what driver you want to run: :firefox, :chrome
+driver: :firefox
