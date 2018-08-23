@@ -20,7 +20,7 @@ Browsers: Chrome latest or older, Firefox 46.0.1 or older
 2. Install DevKit 32bits
 3. Install dependencies
 
-##1. Install ruby 2.3.0 32bits
+## 1. Install ruby 2.3.0 32bits
 
 Download and install [Ruby 2.3.0](http://rubyinstaller.org/downloads/archives) then add ruby bin path to **PATH** environment if it is not added automatically.
 
@@ -33,7 +33,7 @@ ruby 2.3.0p0 (2015-12-25 revision 53290) [i386-mingw32]
 C:\Users\softeng>
 ```
 
-##2. Install DevKit 32bits
+## 2. Install DevKit 32bits
 
 * Download [DevKit-mingw64-32-4.7.2-20130224-1151-sfx.exe](http://rubyinstaller.org/downloads/)
 * Double click on the downloaded file and extract it to C:\DevKit. If you open C:\DevKit folder, it looks like:
@@ -78,7 +78,7 @@ C:\DevKit>
 
 * Add C:\DevKit\bin to PATH environment variable
 
-##3. Install dependencies
+## 3. Install dependencies
 * Open CMD
 * CD to project path
 * Type `gem install bundler`
